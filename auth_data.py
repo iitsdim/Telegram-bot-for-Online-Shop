@@ -1,4 +1,4 @@
-token = "1640455088:AAF-dHXdSns8h8Iub0GT6thGZCSYI3eHGwU"
+token = ""
 
 # shop_items = ["drinks", "foods", "candies"]
 welcome_message = 'Hi! Welcome to "There can be name of your shop"\n'
